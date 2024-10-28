@@ -26,6 +26,6 @@
 
 # Where am I deployed?
 
-https://deploy-this-repo-brettc-git-8gj1-pnlk722k5.vercel.app/
+https://deploy-this-repo-brettc-git-8gj1.vercel.app/
 
 
